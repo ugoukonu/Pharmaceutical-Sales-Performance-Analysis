@@ -24,14 +24,6 @@ d.	Medium-sized stores are the strongest revenue drivers
 e.	Germany, France, and Italy are the top-performing countries
 
 ## Dashboard Preview
-
-### Page 1: Regional & Pharmacy Analysis
-![Regional & Pharmacy Analysis](images/dashboard-page1.png)
-
-### Page 2: Market Breakdown
-![Market Breakdown](images/dashboard-page2.png)
-
-
 View the live Power BI dashboard: [Click Here](https://bit.ly/467G3zm)
 
 ## Limitations
